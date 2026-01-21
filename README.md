@@ -1,6 +1,6 @@
 # Terraform-Project-NTI
 <img width="1600" height="689" alt="image" src="https://github.com/user-attachments/assets/d241f361-7721-4837-b849-ba9ba70a3b23" />
-
+<img width="1600" height="764" alt="image" src="https://github.com/user-attachments/assets/898423e9-d2de-494a-adf3-b522884fb837" />
 
 ## 🚀 Project Overview
 
@@ -72,14 +72,3 @@ After successful apply, Terraform outputs the public IP of the EC2 instance.
 ## 🧾 Cleanup
 
 All created resources can be destroyed without affecting the existing VPC.
-
----
-
-## 📌 Add Images
-
-<img width="1600" height="764" alt="image" src="https://github.com/user-attachments/assets/019ddb2d-3201-454c-a8af-f6edb88dca3c" />
-<img width="1600" height="781" alt="image" src="https://github.com/user-attachments/assets/c739bbd0-492a-4bc9-b3bf-073314e96bda" />
-
-
-
-
