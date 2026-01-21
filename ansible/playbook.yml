@@ -1,0 +1,26 @@
+- hosts: web
+  become: yes
+  tasks:
+    - name: enable nginx in amazon-linux-extras
+      command: amazon-linux-extras enable nginx1
+      args:
+        creates: /etc/yum.repos.d/nginx.repo
+
+    - name: install nginx
+      yum:
+        name: nginx
+        state: present
+
+    - name: start nginx
+      service:
+        name: nginx
+        state: started
+        enabled: true
+
+    - name: create index page
+      copy:
+        dest: /usr/share/nginx/html/index.html
+        content: "Hello World from Ansible – Radwa"
+
+
+

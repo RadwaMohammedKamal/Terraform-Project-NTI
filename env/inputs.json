@@ -1,0 +1,15 @@
+{
+  "environment": "non-prod",
+  "region": "eu-north-1",
+  "project_name": "terraform-project-nti",
+  "owner": "radwa",
+  "instance_type_map": {
+    "prod": "t3.medium",
+    "non-prod": "t3.micro"
+  },
+  "base_instance_count": 1,
+  "allowed_ports_map": {
+    "prod": [22, 443],
+    "non-prod": [22, 80]
+  }
+}
