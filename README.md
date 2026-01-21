@@ -1,5 +1,6 @@
 # Terraform-Project-NTI
-<img width="1600" height="842" alt="image" src="https://github.com/user-attachments/assets/9c06be44-4d0d-4eb9-9e84-05f534f6ab4b" />
+<img width="1600" height="689" alt="image" src="https://github.com/user-attachments/assets/d241f361-7721-4837-b849-ba9ba70a3b23" />
+
 
 ## 🚀 Project Overview
 
@@ -75,8 +76,10 @@ All created resources can be destroyed without affecting the existing VPC.
 ---
 
 ## 📌 Add Images
-![WhatsApp Image 2026-01-21 at 2 32 24 PM](https://github.com/user-attachments/assets/f1f519ae-dd6c-46d6-85a9-f661e85109a9)
 
-<img width="1600" height="764" alt="image" src="https://github.com/user-attachments/assets/3b8a4053-8bc0-4e64-bbf9-5b3aac79888e" />
+<img width="1600" height="764" alt="image" src="https://github.com/user-attachments/assets/019ddb2d-3201-454c-a8af-f6edb88dca3c" />
+<img width="1600" height="781" alt="image" src="https://github.com/user-attachments/assets/c739bbd0-492a-4bc9-b3bf-073314e96bda" />
+
+
 
 
